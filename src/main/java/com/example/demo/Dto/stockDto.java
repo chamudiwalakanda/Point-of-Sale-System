@@ -9,4 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class stockDto {
 
+    private int id;
+    private int quantity;
 }
